@@ -1,0 +1,13 @@
+Protein names	Gene names	Protein IDs	Majority protein IDs	T-test p-value         (-Log10)	Student's T-test Difference	Fold-change
+Fibrinogen beta chain;Fibrinopeptide B;Fibrinogen beta chain	FGB	P02675;D6REL8	P02675;D6REL8	163.47	2.51	320.12
+Fibrinogen gamma chain	FGG	P02679;C9JC84	P02679;C9JC84	155.95	2.64	439.51
+Fibrinogen alpha chain;Fibrinopeptide A;Fibrinogen alpha chain	FGA	P02671;A0A087WUA0;CON__P02672	P02671	139.45	1.59	39.17
+Coagulation factor XIII A chain	F13A1	P00488;Q9NQP5;A6PVK5;H0Y796;H0Y4W5	P00488	66.57	0.61	4.05
+Antithrombin-III	SERPINC1	P01008;Q8TCE1	P01008	40.10	0.37	2.36
+Prothrombin;Activation peptide fragment 1;Activation peptide fragment 2;Thrombin light chain;Thrombin heavy chain	F2	P00734;E9PIT3;CON__P00735	P00734;E9PIT3	33.63	0.14	1.38
+Extracellular matrix protein 1	ECM1	Q16610;Q16610-4;Q16610-2	Q16610;Q16610-4;Q16610-2	30.54	0.25	1.77
+Desmoplakin	DSP	P15924;P15924-3;P15924-2	P15924;P15924-3;P15924-2	26.69	0.39	2.47
+WD repeat-containing protein 1	WDR1	O75083;D6RD66;O75083-3	O75083;D6RD66	23.73	0.80	6.26
+Plasma serine protease inhibitor	SERPINA5	P05154;G3V5Q9;G3V2M1;G3V264;G3V482;G3V265;G3V5I3;G3V4B4;G3V3F5	P05154;G3V5Q9;G3V2M1	19.56	0.80	6.26
+Coagulation factor XI;Coagulation factor XIa heavy chain;Coagulation factor XIa light chain	F11	P03951;P03951-2;X6R3B1;D6RB32;H0Y596	P03951;P03951-2	18.88	0.16	1.44
+Apolipoprotein C-III	APOC3	P02656;B0YIW2	P02656;B0YIW2	16.56	0.12	1.32

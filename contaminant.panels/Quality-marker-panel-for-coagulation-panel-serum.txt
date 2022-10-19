@@ -1,0 +1,20 @@
+Protein names	Gene names	Protein IDs	Majority protein IDs	T-test p-value         (-Log10)	Student's T-test Difference	Fold-change
+Platelet basic protein;Connective tissue-activating peptide III;TC-2;Connective tissue-activating peptide III(1-81);Beta-thromboglobulin;Neutrophil-activating peptide 2(74);Neutrophil-activating peptide 2(73);Neutrophil-activating peptide 2;TC-1;Neutrophil-activating peptide 2(1-66);Neutrophil-activating peptide 2(1-63)	PPBP	P02775	P02775	35.15	-0.71	5.19
+Platelet glycoprotein Ib alpha chain;Glycocalicin	GP1BA	P07359;A0A0C4DGZ8	P07359;A0A0C4DGZ8	31.77	-0.37	2.33
+Clusterin;Clusterin beta chain;Clusterin alpha chain;Clusterin	CLU	P10909;P10909-4;P10909-5;P10909-2;P10909-3;H0YC35;H0YLK8;E7ERK6;E7ETB4;H0YAS8;E5RJZ5;E5RGB0;E5RH61;E5RG36	P10909;P10909-4;P10909-5;P10909-2;P10909-3;H0YC35;H0YLK8	29.40	-0.11	1.29
+Attractin	ATRN	O75882;O75882-3;O75882-2;Q5VV63	O75882;O75882-3;O75882-2	23.67	-0.12	1.32
+Platelet glycoprotein V	GP5	P40197	P40197	22.01	-0.59	3.89
+Complement C1r subcomponent-like protein	C1RL	Q9NZP8;H0YFL7;F5GWF3;F5H7C8;F5H6S5;F5H2Z5	Q9NZP8	19.39	-0.36	2.30
+"Mannosyl-oligosaccharide 1,2-alpha-mannosidase IA"	MAN1A1	P33908;P33908-2	P33908;P33908-2	19.03	-0.20	1.59
+Kininogen-1;Kininogen-1 heavy chain;T-kinin;Bradykinin;Lysyl-bradykinin;Kininogen-1 light chain;Low molecular weight growth-promoting factor	KNG1	P01042-2;P01042-3	P01042-2;P01042-3	18.65	-0.42	2.61
+Cholinesterase;Carboxylic ester hydrolase	BCHE	P06276;F8WF14;F8WEX7;H0Y885;H7C4Y0	P06276;F8WF14;F8WEX7	18.37	-0.19	1.55
+Phosphatidylinositol-glycan-specific phospholipase D	GPLD1	P80108;P80108-2	P80108	18.34	-0.09	1.23
+Thrombospondin-1	THBS1	P07996;CON__Q28194;P07996-2;A8MZG1	P07996;CON__Q28194;P07996-2	17.87	-0.67	4.67
+Mannan-binding lectin serine protease 1;Mannan-binding lectin serine protease 1 heavy chain;Mannan-binding lectin serine protease 1 light chain	MASP1	P48740	P48740	17.82	-0.34	2.16
+Teneurin-4	TENM4	Q6N022;H0YCJ4	Q6N022;H0YCJ4	17.11	-0.23	1.69
+Basement membrane-specific heparan sulfate proteoglycan core protein;Endorepellin;LG3 peptide	HSPG2	P98160;Q5SZJ2;Q5SZJ1;Q5SZI9	P98160	16.68	-0.19	1.54
+Cadherin-5	CDH5	P33151;I3L1J2;P33151-2;H3BPG1;H3BR64;H3BR11	P33151;I3L1J2;P33151-2	16.31	-0.19	1.54
+Lactotransferrin;Lactoferricin-H;Kaliocin-1;Lactoferroxin-A;Lactoferroxin-B;Lactoferroxin-C	LTF	P02788;E7EQB2;E7ER44;P02788-2;C9JCF5	P02788;E7EQB2;E7ER44;P02788-2	16.25	-0.85	7.11
+Cystatin-C	CST3	P01034	P01034	15.01	-0.19	1.55
+Vitamin K-dependent protein C;Vitamin K-dependent protein C light chain;Vitamin K-dependent protein C heavy chain;Activation peptide	PROC	P04070;E7END6;P04070-2;H7BYX9;E7ENR9;E7EU72;E7EVH6	P04070;E7END6;P04070-2	14.68	-0.12	1.33
+"Platelet factor 4;Platelet factor 4, short form;Platelet factor 4 variant;Platelet factor 4 variant(4-74);Platelet factor 4 variant(5-74);Platelet factor 4 variant(6-74)"	PF4;PF4V1	P02776;P10720	P02776;P10720	11.39	-0.34	2.21
